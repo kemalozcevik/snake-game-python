@@ -1,4 +1,5 @@
 <img width="594" height="632" alt="1" src="https://github.com/user-attachments/assets/c27f7fc4-abd6-4711-86a4-ebf376a9fb48" />
+
 # 🐍 Python Turtle - Klasik Yılan Oyunu
 
 Python'ın yerleşik `turtle` modülü kullanılarak sıfırdan geliştirilmiş, grid tabanlı klasik Snake oyunu.
